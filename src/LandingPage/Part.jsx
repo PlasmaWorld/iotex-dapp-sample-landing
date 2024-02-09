@@ -2,7 +2,7 @@ import React from 'react'
 
 function Part() {
     return (
-        <div id="meet" data-aos="fade-up" data-aos-duration="2000" className=' pt-14 pb-36 bg-zinc-800 bg-center'>
+        <div id="meet" data-aos="fade-up" data-aos-duration="2000" className=' pt-14 pb-36 bg-gray-900 bg-center'>
             <div className='max-w-7xl mx-auto px-7 2xl:px-0'>
                 <h1 className={`text-sky-500 text-2xl font-semibold text-center pt-20`}>Be a part of the team</h1>
 

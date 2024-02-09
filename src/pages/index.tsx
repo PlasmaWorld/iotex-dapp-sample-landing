@@ -25,8 +25,8 @@ export default function HeroTitle() {
       <FirstStep />
       <Meet />
       <Stats />
-      <Part />
       <Roadmap />
+      <Part />
       <FAQ />
       <Footer />
     </MainLayout>
