@@ -14,6 +14,7 @@ import Stats from '../LandingPage/Stats';
 import Part from '../LandingPage/Part';
 import Roadmap from '../LandingPage/Roadmap';
 import FAQ from '../LandingPage/FAQ';
+import Footer from '../LandingPage/Footer';
 
 export default function HeroTitle() {
 
@@ -27,6 +28,7 @@ export default function HeroTitle() {
       <Part />
       <Roadmap />
       <FAQ />
+      <Footer />
     </MainLayout>
   );
 }

@@ -109,6 +109,7 @@
     "concurrently": "^6.0.0",
     "csstype": "^3.0.10",
     "cypress": "^6.5.0",
+    "daisyui": "^4.6.2",
     "ioredis": "^5.1.0",
     "postcss": "^8.4.35",
     "react-native": "*",
