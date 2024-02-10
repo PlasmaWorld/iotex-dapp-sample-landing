@@ -9,7 +9,7 @@ function Roadmap() {
                 </h2>
 
 
-                <div className='mt-14 bg-gray-800 bg-opacity-20 py-14 px-5 rounded-lg'>
+                <div className='mt-14 bg-gray-800 bg-opacity-30 py-14 px-5 rounded-lg'>
                     <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
                         <li>
                             <div className="timeline-middle text-gray-200">

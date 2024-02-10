@@ -30,7 +30,7 @@ function FAQ() {
 
 
     return (
-        <div className='bg-[#000509] py-24 lg:py-32 text-white'>
+        <div className=' py-24 lg:py-32 text-white'>
             <div className='max-w-7xl mx-auto px-7 wxl:px-0'>
                 <h2 className='text-3xl text-sky-500  text-center font-bold'>
                     FAQ
