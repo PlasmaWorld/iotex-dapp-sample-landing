@@ -114,6 +114,7 @@
     "daisyui": "^4.6.2",
     "ioredis": "^5.1.0",
     "postcss": "^8.4.35",
+    "prettier": "2.5.1",
     "react-native": "*",
     "tailwindcss": "^3.4.1",
     "tslib": ">=2.0.0 <3.0.0",
