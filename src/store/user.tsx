@@ -20,8 +20,7 @@ export class UserStore {
     showHistoryButton: new BooleanState(),
     router: [
       { link: '/', label: 'home', icon: Home },
-      { link: '/swap', label: 'example', icon: CodeIcon },
-      { link: '/api/graphql', label: 'playground', icon: LayersLinked, __blank: true }
+
     ]
   };
   networkChecker = {

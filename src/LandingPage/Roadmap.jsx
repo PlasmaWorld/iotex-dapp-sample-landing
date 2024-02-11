@@ -23,29 +23,29 @@ function Roadmap() {
                                 <div className="text-lg font-black text-gray-200">3000 Mints, becoming Iotex Delegate & First Web3 Store</div>
                                 <ul className='mt-2'>
                                     <li className='flex items-center gap-1 mb-1'>
-                                        <span className='text-sky-500'>
+                                        <span className='text-sky-100'>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">
                                                 <path fillRule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clipRule="evenodd" />
                                             </svg>
                                         </span>
-                                        The beginning PlasmaW3bWorld will release the first 3000 Special Plasma World Nfts.
+                                        PlasmaWorld the beginning of a new Journey create together the next generation of Networking will release the first 3300 Special Plasma World Nfts.
                                     </li>
                                     <li className='flex items-center gap-1 mb-1'>
-                                        <span className='text-sky-500'>
+                                        <span className='text-sky-100'>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">
                                                 <path fillRule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clipRule="evenodd" />
                                             </svg>
                                         </span>
-                                        PlasmaW3bWorld will become a Iotex delegate to Represent us at Iotex
+                                        PlasmaWorld will become a Iotex delegate to Represent us at Iotex
 
                                     </li>
                                     <li className='flex items-center gap-1 mb-1'>
-                                        <span className='text-sky-500'>
+                                        <span className='text-sky-100'>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">
                                                 <path fillRule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clipRule="evenodd" />
                                             </svg>
-                                        </span>
-                                        PlasmaW3bWorld the beginning of a new Journey create together the next generation of Networking
+                                        </span>                                       
+                                         PlasmaWorld the development of the first web3 buisness
                                     </li>
 
                                 </ul>
@@ -61,10 +61,10 @@ function Roadmap() {
                             </div>
                             <div className="timeline-start mb-10">
 
-                                <div className="text-lg font-black text-gray-200">6000 Mints, Real Estate, Agriculture & Substainable technology.</div>
+                                <div className="text-lg font-black text-gray-200">6600 Mints, Real Estate, Agriculture & Substainable technology.</div>
                                 <ul className='mt-2'>
                                     <li className='flex items-center gap-1 mb-1'>
-                                        <span className='text-sky-500'>
+                                        <span className='text-sky-100'>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">
                                                 <path fillRule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clipRule="evenodd" />
                                             </svg>
@@ -72,21 +72,21 @@ function Roadmap() {
                                         PlasmaW3bWorld will release the Secound Batch of 6600 PlasmaWorld Nfts.
                                     </li>
                                     <li className='flex items-center gap-1 mb-1'>
-                                        <span className='text-sky-500'>
+                                        <span className='text-sky-100'>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">
                                                 <path fillRule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clipRule="evenodd" />
                                             </svg>
                                         </span>
-                                        The beginning of PlasmaW3bWorld Real Estate & Agriculture Journey. PlasmaW3bWorld will buy Land all over the World to build a Small Paradise. Wonderfull Knowleedg Center & Holiday Places arround the World with the Most advance Agriculture Method in the World where we Respect Nature and let Nature do the Work.
+                                        Plasma World foundation building first Production companie for substainable houses.
 
                                     </li>
                                     <li className='flex items-center gap-1 mb-1'>
-                                        <span className='text-sky-500'>
+                                        <span className='text-sky-100'>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">
                                                 <path fillRule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clipRule="evenodd" />
                                             </svg>
                                         </span>
-                                        Development of Substainable technology for the Ecosystem.
+                                        Plasma World foundation building the first Place for the ecostem to meet and Work together
                                     </li>
 
                                 </ul>
@@ -102,10 +102,10 @@ function Roadmap() {
                             </div>
                             <div className="timeline-end mb-10">
 
-                                <div className="text-lg font-black text-gray-200">9000 Mints, Crowdfounding System, PlasmaW3bWorld University, Production companies</div>
+                                <div className="text-lg font-black text-gray-200">9900 Mints, Crowdfounding System, PlasmaW3bWorld University, Production companies</div>
                                 <ul className='mt-2'>
                                     <li className='flex items-center gap-1 mb-1'>
-                                        <span className='text-sky-500'>
+                                        <span className='text-sky-100'>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">
                                                 <path fillRule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clipRule="evenodd" />
                                             </svg>
@@ -113,7 +113,7 @@ function Roadmap() {
                                         PlasmaW3bWorld will release the Last Batch of 9900 Special PlasmaWorld Nfts.
                                     </li>
                                     <li className='flex items-center gap-1 mb-1'>
-                                        <span className='text-sky-500'>
+                                        <span className='text-sky-100'>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">
                                                 <path fillRule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clipRule="evenodd" />
                                             </svg>
@@ -123,12 +123,13 @@ function Roadmap() {
 
                                     </li>
                                     <li className='flex items-center gap-1 mb-1'>
-                                        <span className='text-sky-500'>
+                                        <span className='text-sky-100'>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">
                                                 <path fillRule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clipRule="evenodd" />
                                             </svg>
                                         </span>
-                                        Plasma World foundation building Production companies and Partnerships all over the World.
+                                        The beginning of PlasmaW3bWorld Real Estate & Agriculture Journey. PlasmaW3bWorld will buy Land all over the World to build a Small Paradise. Wonderfull Knowleedg Center & Holiday Places arround the World with the Most advance Agriculture Method in the World where we Respect Nature and let Nature do the Work.
+
                                     </li>
 
 

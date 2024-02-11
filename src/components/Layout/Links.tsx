@@ -1,10 +1,17 @@
 import { observer } from 'mobx-react-lite';
 //@ts-ignore
-import { Box, Center, createStyles, Menu, Link } from '@mantine/core';
+import { Box, createStyles, Menu, Link } from '@mantine/core';
 import { useRouter } from 'next/router';
 import { useStore } from '@/store/index';
 import { useTranslation } from 'react-i18next';
 import { ChevronDown } from 'tabler-icons-react';
+
+interface MenuItem {
+  link: string;
+  label: string;
+  icon: any;
+  __blank?: boolean; // Define the __blank property as optional
+}
 
 const useStyles = createStyles((theme, _params, getRef) => {
   const icon = getRef('icon');
@@ -56,7 +63,7 @@ export const Links = observer(() => {
 
   return (
     <>
-      {user.layout?.router?.map((item) => (
+      {user.layout?.router?.map((item: MenuItem) => ( // Define the type of 'item' as MenuItem
         <Box
           className={cx(classes.link, { [classes.linkActive]: item.link === router.route })}
           sx={{ cursor: 'pointer' }}

@@ -34,7 +34,7 @@ function Meet() {
             <div className='max-w-7xl mx-auto px-7 2xl:px-0'>
                 <h1 className={`text-sky-500 text-2xl font-semibold text-center pt-20`}>Meet the Plasma World Nfts</h1>
                 <div className='lg:mt-12 mt-16 flex flex-col lg:flex-row gap-2 lg:gap-5 justify-center items-center px-5 lg:px-0'>
-                    <a href="https://iopay.me/" target="_blank">
+                    <a href="https://nft.mimo.exchange/" target="_blank">
                         <button className='bg-sky-500 hover:bg-white hover:text-gray-800 transition duration-200 text-white py-4 px-7 rounded-full'>Buy a PlasmaW3bWorld</button>
                     </a>
                     <button className='bg-white hover:bg-gray-800 hover:text-white transition duration-200 text-gray-600 py-4 px-7 rounded-full'>View full collection</button>

@@ -84,7 +84,7 @@ export const Logo = () => {
           <CodeIcon />
         </ThemeIcon>
         <Text ml={'sm'} weight="bold" size="lg" variant="gradient" gradient={{ from: 'indigo', to: 'cyan' }}>
-          IoTeX Dapp V3
+          Plasma World foundation
         </Text>
       </Box>
     </Group>

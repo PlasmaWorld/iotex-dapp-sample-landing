@@ -11,7 +11,7 @@ import Hero from '../LandingPage/Hero';
 import FirstStep from '../LandingPage/FirstStep';
 import Meet from '../LandingPage/Meet';
 import Stats from '../LandingPage/Stats';
-import Part from '../LandingPage/Part';
+import ContactUs from '../LandingPage/Part';
 import Roadmap from '../LandingPage/Roadmap';
 import FAQ from '../LandingPage/FAQ';
 import Footer from '../LandingPage/Footer';
@@ -26,7 +26,7 @@ export default function HeroTitle() {
       <Meet />
       <Stats />
       <Roadmap />
-      <Part />
+      <ContactUs />
       <FAQ />
       <Footer />
     </MainLayout>

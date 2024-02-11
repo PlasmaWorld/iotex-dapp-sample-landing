@@ -37,11 +37,7 @@ export const SwitchThemeToggle = observer(() => {
 
   return (
     <Group>
-      <div className={classes.root}>
-        <Sun className={cx(classes.icon, classes.iconLight)} size={18} />
-        <MoonStars className={cx(classes.icon, classes.iconDark)} size={18} />
-        <Switch checked={user.isDark} onChange={() => user.toggleTheme()} size="md" />
-      </div>
+     
     </Group>
   );
 });

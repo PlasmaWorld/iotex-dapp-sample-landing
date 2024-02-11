@@ -1,10 +1,7 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
-import React from 'react'
-
 function Footer() {
     return (
         <div>
-            <footer className="footer footer-center p-10 bg-base-200 text-base-content rounded">
+            <footer className="footer footer-center py-24 lg:py-32 text-white rounded">
                 <div className="grid grid-flow-col gap-4 text-white font-semibold text-lg">
                     <a href='#' className="link link-hover px-5 py-2 border border-sky-500 border-opacity-20 rounded-full">Buy a PlasmaW3bWorld</a>
                     <a href='#' className="link link-hover px-5 py-2 border border-sky-500 border-opacity-20 rounded-full">View Full Collection</a>
@@ -30,4 +27,4 @@ function Footer() {
     )
 }
 
-export default Footer
+export default Footer;
