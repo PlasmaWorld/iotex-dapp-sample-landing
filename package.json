@@ -65,7 +65,6 @@
     "graphql": "^16.6.0",
     "graphql-request": "^4.3.0",
     "i18next": "^21.10.0",
-    "iotex-antenna": "^0.31.6",
     "js-sha3": "^0.8.0",
     "jsonwebtoken": "^8.5.1",
     "localforage": "^1.10.0",

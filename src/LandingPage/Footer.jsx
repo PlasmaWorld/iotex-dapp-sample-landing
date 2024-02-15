@@ -3,7 +3,7 @@ function Footer() {
         <div>
             <footer className="footer footer-center py-24 lg:py-32 text-white rounded">
                 <div className="grid grid-flow-col gap-4 text-white font-semibold text-lg">
-                    <a href='#' className="link link-hover px-5 py-2 border border-sky-500 border-opacity-20 rounded-full">Buy a PlasmaW3bWorld</a>
+                    <a href='#' className="link link-hover px-5 py-2 border border-sky-500 border-opacity-20 rounded-full">Buy a PlasmaWorld</a>
                     <a href='#' className="link link-hover px-5 py-2 border border-sky-500 border-opacity-20 rounded-full">View Full Collection</a>
                 </div>
 
@@ -20,7 +20,7 @@ function Footer() {
                     </div>
                 </div>
                 <div>
-                    <p>© 2023 PlasmaW3bWorld . All right reserved.</p>
+                    <p>© 2024 PlasmaWorld . All right reserved.</p>
                 </div>
             </footer>
         </div>
